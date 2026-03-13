@@ -2,7 +2,7 @@
 
 > 让房源获取、内容生产、发布、互动、线索沉淀从"人盯流程"变成"流程帮你做事"。
 
-![封面图](.cursor/projects/home-ubuntu/assets/xhs-real-estate-cover.png)
+![封面图](assets/xhs-real-estate-cover.jpg)
 
 `OpenClaw` `企业微信` `小红书自动发布` `Notion房源库` `群聊监控` `智能找房` `中国房产经纪人`
 
@@ -107,7 +107,7 @@
 
 > 不是替代经纪人，而是把经纪人的时间从重复劳动里释放出来，把更多精力留给带看、谈判、成交和客户经营。
 
-![效率提升图](.cursor/projects/home-ubuntu/assets/xhs-agent-efficiency.png)
+![效率提升图](assets/xhs-agent-efficiency.jpg)
 
 ### 这套系统最适合提升的 3 件事
 
@@ -125,7 +125,7 @@
 
 ## 工作流一览
 
-![工作流图](.cursor/projects/home-ubuntu/assets/xhs-agent-workflow.png)
+![工作流图](assets/xhs-agent-workflow.jpg)
 
 ### 当前链路
 
@@ -326,7 +326,7 @@
 
 ## 传统方式 vs AI 工作流
 
-![对比图](.cursor/projects/home-ubuntu/assets/xhs-roi-comparison.png)
+![对比图](assets/xhs-roi-comparison.jpg)
 
 | 维度 | 传统方式 | 使用本系统后 |
 |---|---|---|
@@ -346,7 +346,7 @@
 
 ## 谁最适合用这套系统
 
-![角色卡](.cursor/projects/home-ubuntu/assets/xhs-persona-cards.png)
+![角色卡](assets/xhs-persona-cards.jpg)
 
 ### 门店负责人
 

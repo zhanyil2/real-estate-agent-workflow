@@ -1,0 +1,45 @@
+# Secrets and credentials
+openclaw-trend-agent/config.json
+xhs-cookies.json
+.env
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Data and logs
+openclaw-trend-agent/data/
+openclaw-trend-agent/logs/
+openclaw-trend-agent/data_dir/
+
+# Screenshots and temp (keep assets/)
+xhs-*.png
+rednote-*.png
+*.png
+!assets/*.png
+!assets/*.jpg
+
+# IDE and system
+.cursor/
+.cursor-server/
+.cache/
+.config/
+.openclaw/
+*.log
+
+# OS and home
+.DS_Store
+Thumbs.db
+.bashrc
+.bash_history
+.profile
+.ssh/
+.npm/
+.pip/

@@ -1,0 +1,9 @@
+--- 第 5 步修改：发布后除更新 XHSPostStatus、PostedAt 外，还需保存 XHSPostURL、XHSFeedId、XHSXsecToken、XHSPostTitle ---
+
+1. 解析 publish_content 的返回，提取 note_id（或从 URL 中提取）
+2. 若返回含 url，写入 XHSPostURL
+3. 调用 search_feeds(keyword=帖子标题前20字)，取第一个结果的 id 和 xsecToken，写入 XHSFeedId、XHSXsecToken
+4. 将发布的标题写入 XHSPostTitle
+5. 用 PATCH 更新 Notion 页面的这些字段
+
+这样后续「回复评论」时可直接从 Notion 查到 feed_id 和 xsec_token。
